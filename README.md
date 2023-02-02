@@ -126,12 +126,15 @@
 - [AI-RecommenderSystem](https://github.com/zhongqiangwu960812/AI-RecommenderSystem)
 - [DeepMatch](https://github.com/shenweichen/DeepMatch)
 - [PaddleRec](https://github.com/PaddlePaddle/PaddleRec)
+- [RecSys2019_DeepLearning_Evaluation](https://github.com/MaurizioFD/RecSys2019_DeepLearning_Evaluation)
+- [FuxiCTR](https://github.com/xue-pai/FuxiCTR)
+- [SELFRec](https://github.com/Coder-Yu/SELFRec)
 
 
 
+## Practice in Industry
 
-
-
+- [GitHub - Doragd/Algorithm-Practice-in-Industry: 搜索、推荐、广告、用增等工业界实践文章收集（来源：知乎、Datafuntalk、技术公众号）](https://github.com/Doragd/Algorithm-Practice-in-Industry)
 
 
 
